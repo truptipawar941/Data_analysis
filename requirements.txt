@@ -1,0 +1,4 @@
+The technology we use-
+python
+matplotlib
+pandas
