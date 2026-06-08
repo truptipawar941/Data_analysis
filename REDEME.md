@@ -40,6 +40,9 @@ It includes data processing, insights, and visualization.
 - Python data handling
 
 ---
+Local URL: http://localhost:8501
+  Network URL: http://10.201.153.213:8501
+
 
 ## Author
 
