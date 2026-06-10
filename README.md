@@ -1,49 +1,40 @@
-Data Analysis Using Python,Pandas and matplotlib
-Here we analysis the amazon data of sales
+# Amazon Data Analysis
 
-## About
+## Overview
 
-This project performs basic data analysis using Python.  
-It includes data processing, insights, and visualization.
-
----
+This project analyzes Amazon sales data using Python, Pandas, and Matplotlib. The objective is to extract meaningful insights, identify trends, and visualize sales performance through graphs and statistical analysis.
 
 ## Features
 
-- Data cleaning using Pandas
-- Statistical analysis (mean, sum, etc.)
-- Data visualization using Matplotlib
-- Insight generation (best values, trends)
+* Data Cleaning and Preprocessing using Pandas
+* Statistical Analysis (Mean, Sum, Count, etc.)
+* Data Visualization using Matplotlib
+* Trend Identification and Insight Generation
+* Interactive Data Exploration using Streamlit
 
----
+## Technologies Used
 
-## Tech Stack
-
-- Python
-- Pandas
-- Matplotlib
-
----
+* Python
+* Pandas
+* Matplotlib
+* Streamlit
 
 ## Output
 
-- Graphs showing trends
-- Summary statistics
-- Data insights
+* Sales Trend Analysis
+* Data Visualization Charts
+* Summary Statistics
+* Business Insights from Amazon Sales Data
 
----
+## Learning Outcomes
 
-## Learning Outcome
+* Data Analysis using Python
+* Data Cleaning and Preprocessing
+* Data Visualization Techniques
+* Exploratory Data Analysis (EDA)
+* Streamlit Dashboard Development
 
-- Basics of Data Analysis
-- Data visualization techniques
-- Python data handling
+ Author
 
----
-Local URL: http://localhost:8501
-  Network URL: http://10.201.153.213:8501
-
-
-## Author
-
-Trupti Pawar
+**Trupti Pawar**
+Final Year Computer Science Engineering Student
