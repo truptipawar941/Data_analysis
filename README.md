@@ -34,7 +34,9 @@ This project analyzes Amazon sales data using Python, Pandas, and Matplotlib. Th
 * Exploratory Data Analysis (EDA)
 * Streamlit Dashboard Development
 
- Author
+
+
+# Author
 
 **Trupti Pawar**
 Final Year Computer Science Engineering Student
